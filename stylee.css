@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#container{
+    background-color: aquamarine;
+    margin: 0px 100px 0 100px;
+}
+#up{
+    background-color: rgb(25, 175, 208);
+    margin: 0px 100px 0 100px;
+    padding-bottom: 10px;
+}
+.input-div{
+    display:inline-block;
+}
